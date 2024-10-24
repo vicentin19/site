@@ -1,18 +1,18 @@
 body {
-    color: white;
-    background: black;
-    margin: 0px;
+    color: rgb(255, 255, 0);
+    background: rgb(184, 156, 213);
+    margin: 10px;
 }
 
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(255, 255, 0);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: yellow;
 }
 
 section {
-	background: rgb(184,156,213);
+	background: rgb(184, 156, 213);
 	padding-bottom: 80px;
 	padding-top: 80px;
 	display: flex;
@@ -20,5 +20,5 @@ section {
 }
 
 .chamada-texto {
-    margin-right: 5%;
+    margin-right: 15%;
 }
